@@ -39,10 +39,10 @@ The model demonstrates exceptional capability in distinguishing between normal t
 To address the "black box" nature of AI systems, a Streamlit-based Dashboard provides actionable intelligence, real-time alerting, and situational awareness for network administrators.
 
 ### Traffic Flow & Attack Distribution
-![Traffic Analysis Dashboard](images/dashboard_traffic.png)
+![Traffic Analysis Dashboard](images/Screenshot 2026-01-31 103238.png)
 
 ### Top Attackers & Live Security Logs
-![Live Security Logs](images/dashboard_logs.png)
+![Live Security Logs](images/Screenshot 2026-01-31 103247.png)
 
 ## Installation & Usage
 
